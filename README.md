@@ -273,8 +273,6 @@ http://localhost:5500
 
 **Domain:** Artificial Intelligence | Machine Learning | Computer Vision | Generative AI
 
-**Repository:** [GitHub – AI Gym Coach](https://github.com/shradha-khapra/ai-gym-coach)
-
 **Built with:** Python, MediaPipe, OpenCV, Streamlit, Groq API, and SQLite.
 
 ---
